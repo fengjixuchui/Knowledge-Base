@@ -35,6 +35,7 @@ Some translated blockchain security documents.
 
 * [DASP Top10 中文版](./DASP-top10-chinese.pdf)
 * [Solidity 安全：已知攻击方法和常见防御模式综合列表](./solidity-security-comprehensive-list-of-known-attack-vectors-and-common-anti-patterns-chinese.md)
+* [全面解析公共区块链系统攻击面](./Exploring-the-Attack-Surface-of-Blockchain-A-Systematic-Overview-zh_CN.md)
 
 ## 开放报告
 
@@ -44,6 +45,11 @@ Some open security audit reports of SlowMist.
 * [智能合约安全审计报告 demo](./open-report/Smart-Contract-Security-Audit-Report-demo-chinese.md)
 * [OceanONE 安全审计报告](./open-report/OceanONE-Security-Audit-Report.md)
 * [VeChainThorNodeToken Smart Contract Security Audit Report](./open-report/VeChainThorNodeToken-Smart-Contract-Security-Audit-Report.md)
+* [IoTeX Smart Contract Security Audit Report](./open-report/IoTeX-Smart-Contract-Security-Audit-Report.md)
+* [QuarkChain 安全审计报告](./open-report/QuarkChain-Security-Audit-Report.md)
+* [MEET.ONE Smart Contract Security Audit Report](https://github.com/meet-one/contracts/blob/master/eosiomeetone/open-report/Security-Audit-Report.md)
+* [YOLO Smart Contract Security Audit Report](https://github.com/KyberNetwork/eos_smart_contracts/blob/master/docs/YOLO_Smart_Contract_Security_Audit_Report.pdf)
+* [IoTeX-Vitality Smart Contract Security Audit Report](./open-report/IoTeX-Vitality-Smart-Contract-Security-Audit-Report.md)
 
 ## 思维导图
 
@@ -59,3 +65,4 @@ Other awesome collections.
 
 * [Hacked](https://hacked.slowmist.io)
 * [Awesome Blockchain Bug Bounty](https://github.com/slowmist/awesome-blockchain-bug-bounty)
+* [慢雾科普：区块链安全入门笔记](./blockchain_security_study_notes/README.md)
